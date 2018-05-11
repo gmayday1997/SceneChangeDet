@@ -1,4 +1,3 @@
-# change_detection_pytorch
-this repo aim to address change detection task.
+Fully Convolutional Siamese Network for Scene Change Detection
 
 Code is still under construction
