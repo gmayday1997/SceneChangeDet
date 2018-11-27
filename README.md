@@ -35,7 +35,7 @@ $ground_truth_path/*.jpg
 ```
 
 ## Pretrained Model
-Backbone model, which is deeplabv2 in our work [[baiduyun]](https://pan.baidu.com/s/1Ie8h1Lyzqn2g3GHcGxnppg) [googledriver](https://drive.google.com/file/d/1vma3tTX_ecKvInd91CWMEivbxhT5Xjfa/view?usp=sharing) is available, you should download them and put them to `/pretrain`
+Backbone model, which is deeplabv2 [[baiduyun]](https://pan.baidu.com/s/1Ie8h1Lyzqn2g3GHcGxnppg) [[googledriver]](https://drive.google.com/file/d/1vma3tTX_ecKvInd91CWMEivbxhT5Xjfa/view?usp=sharing)in our work, is available, you should download it and put it to `/pretrain`
 
 Pretrained models for PCD2015 and VL_CMU_CD also have been available.
 
