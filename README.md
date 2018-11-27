@@ -39,10 +39,10 @@ Backbone model, which is deeplabv2 [[baiduyun]](https://pan.baidu.com/s/1Ie8h1Ly
 
 Pretrained models for PCD2015 and VL_CMU_CD also have been available.
 
-- PCD2015: [baiduyun](https://pan.baidu.com/s/1kNNpRlQZJA45wOf0fJtaxw)
-           [googledrive](https://drive.google.com/file/d/18evxU0Y4CMMe_xBtQu3kj3RAI91ZatE1/view?usp=sharing)
-- VL_CMU_CD: [baiduyun](https://pan.baidu.com/s/1ZOo3pbJ1hQvx3dSMWXTs-w)
-             [googledrive](https://drive.google.com/file/d/1z2lwbbxhAEvm8w0S55qebp7Q2DokkNG7/view?usp=sharing)
+- PCD2015: [[baiduyun]](https://pan.baidu.com/s/1kNNpRlQZJA45wOf0fJtaxw)
+           [[googledrive]](https://drive.google.com/file/d/18evxU0Y4CMMe_xBtQu3kj3RAI91ZatE1/view?usp=sharing)
+- VL_CMU_CD: [[baiduyun]](https://pan.baidu.com/s/1ZOo3pbJ1hQvx3dSMWXTs-w)
+             [[googledrive]](https://drive.google.com/file/d/1z2lwbbxhAEvm8w0S55qebp7Q2DokkNG7/view?usp=sharing)
 
 ## Training
 ```shell
