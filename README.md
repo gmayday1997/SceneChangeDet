@@ -2,6 +2,8 @@
 
 Pytorch implementation of Scene Change Detection as described in [Learning to Measure Change: Fully Convolutional Siamese Metric Networks for Scene Change Detection](https://arxiv.org/pdf/1810.09111.pdf). 
 
+![img1](https://github.com/gmayday1997/SceneChangeDet/blob/master/img/figures3.png)
+
 ## Requirements
 
 - Python2.7
