@@ -14,8 +14,8 @@ import utils.metric as mc
 import shutil
 import cv2
 
-### options = ['TSUNAMI','GSV','CMU','AICD','CD2014']
-datasets = 'CD2014'
+### options = ['TSUNAMI','GSV','CMU','CD2014']
+datasets = 'TSUNAMI'
 if datasets == 'TSUNAMI':
     import cfgs.TSUNAMIconfig as cfg
     import dataset.TSUNAMI as dates
