@@ -21,8 +21,8 @@ This repo is built for scene change detection. We report the performance on thre
  - paper: [Street-view change detection with deconvolutional networks](http://www.robesafe.com/personal/roberto.arroyo/docs/Alcantarilla16rss.pdf)
  - dataset: https://ghsi.github.io/proj/RSS2016.html
 
-- 2014 dataset
- - paper: [hangedetection.net: A new change detection benchmark dataset](https://www.merl.com/publications/docs/TR2012-044.pdf)
+- CD2014 dataset
+ - paper: [changedetection.net: A new change detection benchmark dataset](https://www.merl.com/publications/docs/TR2012-044.pdf)
  - dataset: http://changedetection.net/
 
 ### Directory Structure
