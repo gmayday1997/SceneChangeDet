@@ -24,7 +24,18 @@ This repo is built for scene change detection. We report the performance on thre
 - CD2014 dataset
  - paper: [changedetection.net: A new change detection benchmark dataset](https://www.merl.com/publications/docs/TR2012-044.pdf)
  - dataset: http://changedetection.net/
-
+ # note 
+ We have uploaded the modified CD2014 dataset to [[baiduyun]](https://pan.baidu.com/s/19ReVH6pmizcU79sk2Rsz5w)
+ if you find cd2014 dataset is useful for your research, please cite the paper:
+ 
+    @inproceedings{Goyette2012changedetection,
+      title={changedetection.net: A New Change Detection Benchmark Dataset},
+      author={Goyette, Nil and Jodoin, Pierre Marc and Porikli, Fatih and Konrad, Janusz and Ishwar, Prakash},
+      booktitle={Computer Vision and Pattern Recognition Workshops},
+      pages={1-8},
+      year={2012},
+    }
+ 
 ### Directory Structure
  
 File Structure is as follows:
