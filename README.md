@@ -25,7 +25,7 @@ This repo is built for scene change detection. We report the performance on thre
  - paper: [changedetection.net: A new change detection benchmark dataset](https://www.merl.com/publications/docs/TR2012-044.pdf)
  - dataset: http://changedetection.net/
  # 06/12/2018 update 
- We have uploaded the modified CD2014 dataset to [[baiduyun]](https://pan.baidu.com/s/19ReVH6pmizcU79sk2Rsz5w)
+ We have uploaded the modified CD2014 dataset to [[baiduyun]](https://pan.baidu.com/s/19ReVH6pmizcU79sk2Rsz5w),
  if you find cd2014 dataset is useful for your research, please cite the paper:
  
     @inproceedings{Goyette2012changedetection,
