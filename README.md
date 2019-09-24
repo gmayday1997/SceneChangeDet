@@ -61,12 +61,4 @@ Pretrained models for PCD2015 and VL_CMU_CD also have been available.
 cd $SCD_ROOT
 python train.py
 ```
-Please consider citing this paper, if you find this repo is useful in your research   :
-
-    @article{guo2018learning,
-        title={Learning to Measure Change: Fully Convolutional Siamese Metric Networks for Scene Change Detection},
-        author={Guo, Enqiang and Fu, Xinsha and Zhu, Jiawei and Deng, Min and Liu, Yu and Zhu, Qing and Li, Haifeng},
-        journal={arXiv preprint arXiv:1810.09111},
-        year={2018}
-    }
 
