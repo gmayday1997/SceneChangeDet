@@ -14,16 +14,17 @@
 This repo is built for scene change detection. We report the performance on three datasets.
 
 - PCD2015 dataset
- - paper: [Change detection from a street image pair using cnn features and superpixel segmentation](http://www.vision.is.tohoku.ac.jp/files/9814/3947/4830/71-Sakurada-BMVC15.pdf)
- - dataset: http://www.vision.is.tohoku.ac.jp/us/research/4d_city_modeling/pano_cd_dataset/
+   - paper: [Change detection from a street image pair using cnn features and superpixel segmentation](http://www.vision.is.tohoku.ac.jp/files/9814/3947/4830/71-Sakurada-BMVC15.pdf)
+   - dataset: http://www.vision.is.tohoku.ac.jp/us/research/4d_city_modeling/pano_cd_dataset/
  
 - VL_CMU_CD dataset
- - paper: [Street-view change detection with deconvolutional networks](http://www.robesafe.com/personal/roberto.arroyo/docs/Alcantarilla16rss.pdf)
- - dataset: https://ghsi.github.io/proj/RSS2016.html
+    - paper: [Street-view change detection with deconvolutional networks](http://www.robesafe.com/personal/roberto.arroyo/docs/Alcantarilla16rss.pdf)
+    - dataset: https://ghsi.github.io/proj/RSS2016.html 
+    - [Download link](https://drive.google.com/file/d/1iQa9OAHNAhzO0tCufpgpowkHvkeUNxVG/view?usp=share_link)
 
 - CD2014 dataset
- - paper: [changedetection.net: A new change detection benchmark dataset](https://www.merl.com/publications/docs/TR2012-044.pdf)
- - dataset: http://changedetection.net/
+  - paper: [changedetection.net: A new change detection benchmark dataset](https://www.merl.com/publications/docs/TR2012-044.pdf)
+  - dataset: http://changedetection.net/
  # 06/12/2018 update 
  We have uploaded the modified CD2014 dataset to [[baiduyun]](https://pan.baidu.com/s/19ReVH6pmizcU79sk2Rsz5w)[[googledrive]](https://drive.google.com/drive/folders/1bUcUZcx8eRFZMsDuzVSo8ZkpLNhkEwNu?usp=sharing),
  if you find cd2014 dataset is useful for your research, please cite the paper:
